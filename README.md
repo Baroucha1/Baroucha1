@@ -2,7 +2,7 @@
 
 **Software Engineer | Full-Stack Developer | Freelance Web & Mobile Developer**
 
-I’m a Master's graduate in Software Engineering from Saad Dahlab University – Blida with a strong foundation in full-stack development, AI systems, and mobile applications. I build reliable, production-ready solutions — from backend systems to interactive UIs — and work with real clients under my freelance brand [GiesCode](https://giescode.com).
+I’m a Master's graduate in Software Engineering from Saad Dahlab University Blida 1 with a strong foundation in full-stack development, AI systems, and mobile applications. I build reliable, production-ready solutions from backend systems to interactive UIs and work with real clients under my freelance brand [GiesCode](https://giescode.com).
 
 I’m currently expanding my portfolio with freelance projects, open-source work, and AI-focused systems. Open to internships, remote roles, or freelance collaborations.
 
