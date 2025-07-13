@@ -66,7 +66,6 @@ Developed a full-stack decision support system for analyzing in-line inspection 
 - Built an interactive dashboard (2D & 3D) with danger zone visualization.  
 - Reduced manual selection time while improving reliability and transparency.
 
-> *Full project available on request.*
 
 ---
 
@@ -78,7 +77,6 @@ AI-powered system for predicting 3-day closing prices of stocks using deep learn
 - Developed a Django-based web interface for user interaction.  
 - Supports investor decision-making with real-time predictions.
 
-> *Demonstrates full MLOps pipeline from model training to cloud deployment.*
 
 
 > *Some client projects and academic work are private or protected by NDA. Descriptions and visual demos can be provided during interviews.*
