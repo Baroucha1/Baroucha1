@@ -8,7 +8,7 @@ I’m currently expanding my portfolio with freelance projects, open-source work
 
 ---
 
-## 🔧 Technologies & Tools
+##  Technologies & Tools
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -35,7 +35,7 @@ I’m currently expanding my portfolio with freelance projects, open-source work
 
 ---
 
-## 💼 Selected Projects
+## Selected Projects
 
 ### 🌐 [ElectroService Store](https://electroservice.store)  
 Custom e-commerce platform for a local electronics store.  
@@ -56,9 +56,9 @@ Freelance landing page and client portal.
 
 ---
 
-## 🧠 Academic AI Projects
+##  Academic AI Projects
 
-### 🔒 Intelligent Corrosion Risk Assessment System  
+### Intelligent Corrosion Risk Assessment System  
 **Master’s Thesis | Sonatrach TRC (Private Repo)**  
 Developed a full-stack decision support system for analyzing in-line inspection (ILI) data from oil and gas pipelines.  
 - Predicted corrosion severity levels using clustering & Random Forest models.  
@@ -69,7 +69,7 @@ Developed a full-stack decision support system for analyzing in-line inspection 
 
 ---
 
-### 📈 Stock Price Prediction Using LSTM  
+###  Stock Price Prediction Using LSTM  
 **Bachelor's Thesis (2022/2023)**  
 AI-powered system for predicting 3-day closing prices of stocks using deep learning.  
 - Used LSTM networks and ANN to model time-series data.  
@@ -83,7 +83,7 @@ AI-powered system for predicting 3-day closing prices of stocks using deep learn
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baroucha1&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Baroucha1&layout=compact&theme=tokyonight)
