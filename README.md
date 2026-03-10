@@ -37,7 +37,7 @@ I’m currently expanding my portfolio with freelance projects, open-source work
 
 ## Selected Projects
 
-### 🌐 [Mazadati](https://www.mazadati.dz)  
+### 🌐 [Mazadati]
 Real-time online auction platform built for the Algerian market.
 
 - Developed with **Next.js (frontend)** and **Express.js (backend)** using a REST API architecture.
