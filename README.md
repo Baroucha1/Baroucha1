@@ -37,6 +37,20 @@ I’m currently expanding my portfolio with freelance projects, open-source work
 
 ## Selected Projects
 
+###🌐 Mazadati
+
+Real-time online auction platform built for the Algerian market.
+
+Developed with Next.js (frontend) and Express.js (backend) using a REST API architecture.
+
+Implemented secure authentication and user account management.
+
+Integrated CIB payment gateway API for secure online payments.
+
+Built real-time bidding functionality using WebSockets, allowing users to place and update bids instantly during live auctions.
+
+Designed to support multiple auctions, user participation tracking, and dynamic bid updates.
+
 ### 🌐 [ElectroService Store](https://electroservice.store)  
 Custom e-commerce platform for a local electronics store.  
 - Built with WordPress and enhanced with a **custom PHP script** that automates order handling.  
