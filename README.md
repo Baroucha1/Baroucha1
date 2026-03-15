@@ -92,14 +92,6 @@ AI-powered system for predicting 3-day closing prices of stocks using deep learn
 
 ---
 
-##  GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Baroucha1&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Baroucha1&layout=compact&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=Baroucha1&theme=tokyonight)
-
----
-
 ## 📫 Contact
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdel-raouf-drioueche-72ba49306/)  
