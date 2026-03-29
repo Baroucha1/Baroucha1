@@ -52,11 +52,6 @@ Custom e-commerce platform for a local electronics store.
 - When a user places an order, the script instantly opens a social media chat (e.g., WhatsApp or Messenger) pre-filled with the order details for direct communication.  
 - Features payment, booking, and product listing integration.
 
-### 🌐 [SenLBA](https://senlba.com)  
-Business website for a logistics and customs agency based in Djelfa, Algeria.  
-- Built using Django and Bootstrap with a responsive, clean UI.  
-- Includes dynamic content rendering and a working contact form.  
-- Currently a web-based company showcase, with plans to expand into a full mobile app in future updates.
 
 ### 🌐 [GiesCode](https://giescode.com)  
 Freelance landing page and client portal.  
